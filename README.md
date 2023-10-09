@@ -47,6 +47,8 @@ Portfolio for Ishan Tamrakar, Robotics and AI Engineer from University of Maryla
 [instagram]: https://www.instagram.com/ishantja
 [linkedin]: https://linkedin.com/in/ishantamrakar
 
+<br>
+
 - 🔭 I’m currently working on a hBand software that can control multiple haptic bands put on a musical ensemble to send tailored haptic feedback as a part of a vAIolin Aritficial Intelligence project
 - 🌱 I’m currently learning about new and exciting robotics and machine learning developments with the advent of GPT models
 - 👯 I’m looking to collaborate on ROS2 Perception projects that utilize cutting edge algorithms in machine learning to make intelligent robots
