@@ -1,7 +1,5 @@
-# ishantja.github.io
-Portfolio for Ishan Tamrakar, Robotics and AI Engineer from University of Maryland, College Park. Strong Proficiency in Computer Vision, Machine Learning, Software Development, Embedded Systems, and Robot Operating System. 
-
 <h1>Hi, I'm Ishan! <br/><a href="https://github.com/ishantja">Programmer</a>, <a href="https://www.linkedin.com/in/ishantamrakar/">Robotics and AI Professional</a>, <a href="https://www.youtube.com/@ishantamrakar">YouTuber</a></h1>
+Robotics and AI Engineer graduate from University of Maryland, College Park. Strong Proficiency in Computer Vision, Machine Learning, Software Development, Embedded Systems, and Robot Operating System. 
 
 <h2>🗂️ Projects Portfolio:</h2>
 
