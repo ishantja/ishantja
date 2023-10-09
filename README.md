@@ -46,6 +46,7 @@ Robotics and AI Engineer graduate from University of Maryland, College Park. Str
 [linkedin]: https://linkedin.com/in/ishantamrakar
 
 <br>
+<br>
 
 - 🔭 I’m currently working on a hBand software that can control multiple haptic bands put on a musical ensemble to send tailored haptic feedback as a part of a vAIolin Aritficial Intelligence project
 - 🌱 I’m currently learning about new and exciting robotics and machine learning developments with the advent of GPT models
