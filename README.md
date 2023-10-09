@@ -18,7 +18,7 @@ Robotics and AI Engineer graduate from University of Maryland, College Park. Str
   - [Object Detection using PyTorch 🔥](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
   - [Image Segmentation using PyTorch 🔥](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
   - [Finetuning and Multi Task Learnin for Natural Language Processing using Huggingface 🤗](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
-  - [Frane Rate Interpolation Using Auto-Encoder based unsupervised learning](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [Frame Rate Interpolation Using Auto-Encoder based unsupervised learning](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
 - <b>👨‍💻 Other Programming Skills Related Projects:</b>
   - [Full Client-Server Application for Haptic Bands](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
   - [AR hand tracking and object manipulation in unity](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
