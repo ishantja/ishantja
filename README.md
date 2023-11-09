@@ -8,7 +8,7 @@ Robotics and AI Engineer graduate from University of Maryland, College Park. Str
   - [Robot Localization using particle filters](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
   - [Efficient Sampling Based Path Planning Algorithm](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
   - [Open Loop controller for Turtlebot3 in ROS2](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
-  - [Lane detection with failure case handling using classical computer vision techniques](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [Lane detection with failure case handling using classical computer vision techniques](https://github.com/ishantja/lane-detection)
   - [UAV development and testing](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
 - <b>🤖 Computer Vision and AI</b>
   - [3D depth estimation and 3D reconstruction using affine SFM](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
